@@ -1,5 +1,8 @@
 # Golang_01-25-26
 
+-- Practical experience working with various programming languages (GOlang is preferred) Company Name SwiftConnect learn this language 
+Learned with in Hour completed basic & excerice in W3school Really,
+
 Go is fun and easy to learn
 
 # Type Inference in Variable Declarations
